@@ -12,6 +12,7 @@
         }
     },
     "require": {
+        "php": "^7.0",
         "beberlei/assert": "^2.7",
         "symfony/expression-language": "^3.2"
     },
