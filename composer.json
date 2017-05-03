@@ -1,0 +1,13 @@
+{
+    "name": "fr05t1k/assert-extended",
+    "license": "MIT",
+    "autoload": {
+        "\\Fr05t1k\\": "src/"
+    },
+    "require": {
+        "beberlei/assert": "^2.7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.1"
+    }
+}
